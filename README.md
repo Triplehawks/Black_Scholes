@@ -1,6 +1,8 @@
 # 📊 Black-Scholes Option Pricing Model
 
-This repository offers a Python-based implementation of the Black-Scholes Model to price European call and put options, along with tools to explore the behavior of options across various market conditions. It features **interactive P&L heatmaps**, dynamic visualizations, and a simulation-based analysis of **account equity** using geometric Brownian motion to predict trades.
+This repository offers a Python-based implementation of the Black-Scholes Model to price European call and put options, along with tools to explore the behavior of options across various market conditions. It features **interactive P&L heatmaps**, dynamic visualizations and a simulation-based analysis of **account equity** using geometric Brownian motion to predict trades.
+
+https://blackscholestradingmodel.streamlit.app/
 
 ---
 
